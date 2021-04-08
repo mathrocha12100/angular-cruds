@@ -1,0 +1,20 @@
+.sidenav {
+  width: 200px;
+
+  a {
+    display: flex;
+    align-items: center;
+
+    .mat-icon {
+      padding-right: 10px;
+    }
+  }
+
+
+}
+
+.content {
+  padding: 16px;
+
+  background: #fff;
+}
